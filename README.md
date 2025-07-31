@@ -9,8 +9,8 @@ This repository contains the support website and privacy policy for PrivacyEye m
 
 ## URLs
 
-- Support: `https://aaaus.github.io/privacyeye-support/`
-- Privacy Policy: `https://aaaus.github.io/privacyeye-support/privacy-policy.html`
+- Support: `[https://aaaus.github.io/privacyeye-support/](https://aaaus.github.io/PrivacyEyeDocs/index.html)`
+- Privacy Policy: `[https://aaaus.github.io/privacyeye-support/privacy-policy.html](https://aaaus.github.io/PrivacyEyeDocs/privacy-policy.html)`
 
 ## Contact
 
